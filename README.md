@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imrajatbajpai
-- 👀 I’m interested in b
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on c
-- 📫 How to reach me d
+- 👀 I’m interested in Web Designing
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on ML
+- 📫 How to reach me Gmail :"rajatbajpai33@gmail.com"
 
 <!---
 imrajatbajpai/imrajatbajpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
